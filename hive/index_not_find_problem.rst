@@ -1,3 +1,5 @@
+.. _index_not_find_problem:
+
 Hive出现Index not found for分析[未完]
 =========================================================
 
